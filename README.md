@@ -536,3 +536,4 @@ fetch("https://api.capsolver.com/createTask", {
 ```
 ## Informations:
 To send other requests or types of captchas, read the top and replace the TaskType with the provided one you want.
+Please keep in mind, some tasks have extra data like RqData, but if you have to use that you know how to code :D
